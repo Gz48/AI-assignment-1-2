@@ -1,0 +1,12 @@
+﻿xpdf/
+itext/
+poppler/
+python/
+python2/
+python3/
+*.zip
+*.pdf
+*.docx
+*.txt
+run_assignment1.py
+.gemini/
